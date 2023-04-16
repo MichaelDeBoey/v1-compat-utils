@@ -24,7 +24,7 @@
     "test": "vitest"
   },
   "dependencies": {
-    "minimatch": "^7.4.3"
+    "minimatch": "^7.4.6"
   },
   "devDependencies": {
     "@remix-run/dev": "^1.15.0"
